@@ -544,10 +544,10 @@ h6{
             height: 500px;
      }
 
-.image {
+     .image {
       background: url(images/main1.jpg) no-repeat 50% 50%;
       background-size: cover;
-    }
+      }
 
 }
 #contact-form {
@@ -616,7 +616,8 @@ textarea:focus {
 
 @media(max-width: 768px) {
       #contact-form {
-            margin: 5% -8%;
+            margin: 5% -7%;
             width: 98%;
       }
+
 }

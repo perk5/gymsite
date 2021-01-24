@@ -534,7 +534,7 @@ h6{
 }
 
 .image {
-     background: url(images/main1.jpg) no-repeat 50% 10% ;
+     background: url(images/transform.jpg) no-repeat 50% 40% ;
      background-size; cover;
 
 }
@@ -545,7 +545,7 @@ h6{
      }
 
      .image {
-      background: url(images/main1.jpg) no-repeat 50% 50%;
+      background: url(images/transform.jpg) no-repeat 50% 50%;
       background-size: cover;
       }
 

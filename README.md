@@ -1,6 +1,6 @@
 # 💪 Simple Gym Website
 
-A clean and responsive front-end website for a gym or fitness centre built using **HTML**, **CSS**, and **JavaScript**. This project is ideal for beginners learning layout design and basic web interactions.
+A clean and responsive front-end website for a gym or fitness centre built using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🏋️ Key Features
 
